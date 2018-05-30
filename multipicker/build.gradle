@@ -114,7 +114,7 @@ gradle.taskGraph.whenReady { taskGraph ->
 }
 
 dependencies {
-    compileOnly 'com.android.support:appcompat-v7:27.1.0'
-    implementation 'com.android.support:support-v4:27.1.0'
+    compileOnly 'com.android.support:appcompat-v7:27.1.1'
+    implementation 'com.android.support:support-v4:27.1.1'
     implementation 'junit:junit:4.12'
 }
